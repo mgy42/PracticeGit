@@ -19,5 +19,6 @@ scatter3(dig_scalp(:,1),dig_scalp(:,2),dig_scalp(:,3),'b','filled','LineWidth',0
 scatter3(dig_scalp(source_index,1),dig_scalp(source_index,2), dig_scalp(source_index,3),'r','filled','LineWidth',0.2)
 scatter3(dig_scalp(detector_index,1),dig_scalp(detector_index,2), dig_scalp(detector_index,3),'r','filled','LineWidth',0.2)
 
+% Here is my first edit
 
 end
