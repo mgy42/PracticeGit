@@ -20,6 +20,7 @@ scatter3(dig_scalp(source_index,1),dig_scalp(source_index,2), dig_scalp(source_i
 scatter3(dig_scalp(detector_index,1),dig_scalp(detector_index,2), dig_scalp(detector_index,3),'r','filled','LineWidth',0.2)
 
 % Here is my first edit
-% And here is mine - Mate 
+% And here is mine - Mate
+% conflicting line
 
 end
