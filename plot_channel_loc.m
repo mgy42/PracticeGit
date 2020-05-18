@@ -21,5 +21,6 @@ scatter3(dig_scalp(detector_index,1),dig_scalp(detector_index,2), dig_scalp(dete
 
 % Here is my first edit
 % And here is mine - Mate 
+% eds note
 
 end
